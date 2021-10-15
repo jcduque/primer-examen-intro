@@ -1,0 +1,2 @@
+Ubuntu es un software libre que contiene el kernel linux, de dicho sistema se derivan muchas variantes como xubuntu, lubuntu y demás. Ubuntu esta basado en Debian, este puede
+usarse tanto en equipos de usuario final como en servidores.
